@@ -5,14 +5,14 @@ body {
 	font: Marker Felt, fantasy
 }
 .homePage {
-	background: #7E8591;
+	background: #332717;
 }
 .container {
 	width: 1080px;
 	margin: 0 auto;
 }
 .header {
-	background: #648291;
+	background: #CFB48E;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -38,7 +38,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #253330;
+	background: #FAC883;
 	margin: 0px;
 	float: left;
 	width: 100%;
