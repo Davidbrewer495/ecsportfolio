@@ -31,10 +31,6 @@ body {
 	width: 100%;
 	height: 60px;
 	text-align: center;
-	a:hover, a:active, a:focus { 
-     text-decoration: underline; 
-	a:link {
-     color: #D6804F;
 }
 .content {
 	font: New Century Schoolbook, TeX Gyre Schola, serif
