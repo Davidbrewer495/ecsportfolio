@@ -13,7 +13,7 @@ body {
 }
 .header {
 	font: New Century Schoolbook, TeX Gyre Schola, serif
-	background: #24D8EA;
+	background: #648291;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -24,7 +24,7 @@ body {
 }
 .nav {
 	font: New Century Schoolbook, TeX Gyre Schola, serif
-	background: #4F6B66;
+	background: #D1B882;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -38,7 +38,7 @@ body {
 }
 .content {
 	font: New Century Schoolbook, TeX Gyre Schola, serif
-	background: #39EBC7;
+	background: #817367;
 	margin: 0px;
 	float: left;
 	width: 100%;
